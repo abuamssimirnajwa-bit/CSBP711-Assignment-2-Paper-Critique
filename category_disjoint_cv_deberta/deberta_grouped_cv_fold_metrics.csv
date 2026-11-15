@@ -1,6 +1,0 @@
-accuracy,macro_f1,benign_f1,attack_f1,attack_precision,attack_recall,false_positive_rate,roc_auc,true_negatives,false_positives,false_negatives,true_positives,fold
-1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,10,0,0,10,1
-0.5,0.3333333333333333,0.0,0.6666666666666666,0.5,1.0,1.0,0.65,0,10,0,10,2
-1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,10,0,0,10,3
-1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,10,0,0,10,4
-1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,10,0,0,10,5
