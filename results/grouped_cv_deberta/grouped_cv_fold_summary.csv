@@ -1,0 +1,6 @@
+fold,fit_rows,validation_rows,fit_contexts,validation_contexts,fit_benign,fit_attack,validation_benign,validation_attack,context_overlap
+1,80,20,40,10,40,40,10,10,0
+2,80,20,40,10,40,40,10,10,0
+3,80,20,40,10,40,40,10,10,0
+4,80,20,40,10,40,40,10,10,0
+5,80,20,40,10,40,40,10,10,0

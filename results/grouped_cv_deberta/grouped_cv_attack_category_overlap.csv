@@ -1,0 +1,6 @@
+fold,validation_categories,shared_with_fit,unseen_in_fit,shared_category_names,unseen_category_names
+1,3,0,3,,Alphanumeric Substitution | Information Retrieval | Instruction
+2,6,6,0,Content Creation | Homophonic Substitution | Learning and Tutoring | Misspelling Intentionally | Persuasion | Social Interaction,
+3,4,2,2,Clickbait | Persuasion,Anagramming | Language Translation
+4,7,7,0,Clickbait | Content Creation | Homophonic Substitution | Learning and Tutoring | Misspelling Intentionally | Social Interaction | Space Removal & Grouping,
+5,4,2,2,Misspelling Intentionally | Space Removal & Grouping,Malware Distribution | Programming Help
