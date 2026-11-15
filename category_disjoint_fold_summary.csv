@@ -1,0 +1,6 @@
+fold,fit_rows,validation_rows,fit_contexts,validation_contexts,validation_benign,validation_attack,fit_attack_categories,validation_attack_categories,shared_attack_categories,validation_category_names
+1,80,20,40,10,10,10,12,3,0,Instruction | Programming Help | Social Interaction
+2,80,20,40,10,10,10,12,3,0,Homophonic Substitution | Learning and Tutoring | Space Removal & Grouping
+3,80,20,40,10,10,10,12,3,0,Clickbait | Language Translation | Malware Distribution
+4,80,20,40,10,10,10,12,3,0,Anagramming | Information Retrieval | Misspelling Intentionally
+5,80,20,40,10,10,10,12,3,0,Alphanumeric Substitution | Content Creation | Persuasion
