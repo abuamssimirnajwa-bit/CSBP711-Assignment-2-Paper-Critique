@@ -1,0 +1,15 @@
+{
+  "model": "LinearSVC",
+  "class_weight": "balanced",
+  "random_state": 42,
+  "tfidf": {
+    "lowercase": true,
+    "analyzer": "word",
+    "ngram_range": [
+      1,
+      1
+    ],
+    "norm": "l2"
+  },
+  "evaluation_protocol": "5-fold category-disjoint grouped cross-validation"
+}
