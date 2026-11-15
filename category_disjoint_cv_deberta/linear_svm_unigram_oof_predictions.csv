@@ -1,0 +1,101 @@
+sample_id,context_id,attack_category,label,fold,prediction,decision_score
+train_000_attack,train_000,Information Retrieval,1,4,0,-0.2200616673863407
+train_000_benign,train_000,,0,4,0,-0.4892266809796467
+train_001_attack,train_001,Content Creation,1,5,1,0.2501012880796002
+train_001_benign,train_001,,0,5,1,0.1833803348248211
+train_002_attack,train_002,Learning and Tutoring,1,2,0,-0.05583519764929207
+train_002_benign,train_002,,0,2,0,-0.6918746338878619
+train_003_attack,train_003,Language Translation,1,3,1,0.07606896437529276
+train_003_benign,train_003,,0,3,0,-0.06976137674322891
+train_004_attack,train_004,Programming Help,1,1,1,0.040755608435861734
+train_004_benign,train_004,,0,1,0,-0.36192850138776744
+train_005_attack,train_005,Alphanumeric Substitution,1,5,1,0.20581243801336682
+train_005_benign,train_005,,0,5,0,-0.37666394634237704
+train_006_attack,train_006,Homophonic Substitution,1,2,1,0.20471337823381608
+train_006_benign,train_006,,0,2,0,-0.24000433677451743
+train_007_attack,train_007,Misspelling Intentionally,1,4,1,0.055174561660121024
+train_007_benign,train_007,,0,4,0,-0.3854860155953518
+train_008_attack,train_008,Anagramming,1,4,1,0.13724977409228728
+train_008_benign,train_008,,0,4,0,-0.12575703777262054
+train_009_attack,train_009,Space Removal & Grouping,1,2,1,0.06509525634722749
+train_009_benign,train_009,,0,2,0,-0.2629798376739256
+train_010_attack,train_010,Instruction,1,1,1,0.12325202729110452
+train_010_benign,train_010,,0,1,0,-0.29178458627472426
+train_011_attack,train_011,Social Interaction,1,1,1,0.6950894518110524
+train_011_benign,train_011,,0,1,0,-0.3367404155297672
+train_012_attack,train_012,Persuasion,1,5,1,0.5265024087558691
+train_012_benign,train_012,,0,5,0,-0.625370035090564
+train_013_attack,train_013,Clickbait,1,3,1,0.3810973962468398
+train_013_benign,train_013,,0,3,0,-0.3035524135138366
+train_014_attack,train_014,Malware Distribution,1,3,1,1.3839995047308307
+train_014_benign,train_014,,0,3,1,1.3295698968791765
+train_015_attack,train_015,Information Retrieval,1,4,0,-0.23342102456285874
+train_015_benign,train_015,,0,4,0,-0.4892266809796467
+train_016_attack,train_016,Content Creation,1,5,0,-0.18786774956240687
+train_016_benign,train_016,,0,5,0,-0.4571312744228278
+train_017_attack,train_017,Learning and Tutoring,1,2,0,-0.16148391882623309
+train_017_benign,train_017,,0,2,0,-0.591465231313594
+train_018_attack,train_018,Language Translation,1,3,0,-0.014523342654114757
+train_018_benign,train_018,,0,3,0,-0.500315551410238
+train_019_attack,train_019,Programming Help,1,1,0,-0.02124346325551396
+train_019_benign,train_019,,0,1,0,-0.16940646538452886
+train_020_attack,train_020,Alphanumeric Substitution,1,5,0,-0.2543759122431824
+train_020_benign,train_020,,0,5,0,-0.681006195180504
+train_021_attack,train_021,Homophonic Substitution,1,2,1,0.26877376497328176
+train_021_benign,train_021,,0,2,0,-0.3848949082956658
+train_022_attack,train_022,Misspelling Intentionally,1,4,0,-0.01620150689351546
+train_022_benign,train_022,,0,4,0,-0.4520089951255647
+train_023_attack,train_023,Anagramming,1,4,1,0.19750027989338484
+train_023_benign,train_023,,0,4,0,-0.4520089951255647
+train_024_attack,train_024,Space Removal & Grouping,1,2,1,0.20082895099478215
+train_024_benign,train_024,,0,2,0,-0.42728065395016285
+train_025_attack,train_025,Instruction,1,1,0,-0.0504937786079116
+train_025_benign,train_025,,0,1,0,-0.41479104069252504
+train_026_attack,train_026,Social Interaction,1,1,0,-0.0617511129336103
+train_026_benign,train_026,,0,1,0,-0.28207535977870124
+train_027_attack,train_027,Persuasion,1,5,1,0.0017523132513996287
+train_027_benign,train_027,,0,5,0,-0.3578893657589504
+train_028_attack,train_028,Clickbait,1,3,1,0.07607569414839616
+train_028_benign,train_028,,0,3,0,-0.14188585234479362
+train_029_attack,train_029,Malware Distribution,1,3,1,0.12745720189463083
+train_029_benign,train_029,,0,3,0,-0.4701915994376747
+train_030_attack,train_030,Information Retrieval,1,4,0,-0.1344084862920779
+train_030_benign,train_030,,0,4,0,-0.14785951069157893
+train_031_attack,train_031,Content Creation,1,5,0,-0.27231886330771254
+train_031_benign,train_031,,0,5,0,-0.2595900777631546
+train_032_attack,train_032,Learning and Tutoring,1,2,0,-0.3646990324091384
+train_032_benign,train_032,,0,2,0,-0.47833996297516096
+train_033_attack,train_033,Language Translation,1,3,1,0.1873326250546626
+train_033_benign,train_033,,0,3,0,-0.3447533541992734
+train_034_attack,train_034,Programming Help,1,1,1,0.4913627968165591
+train_034_benign,train_034,,0,1,0,-0.45853356030074
+train_035_attack,train_035,Alphanumeric Substitution,1,5,1,0.8503142454275925
+train_035_benign,train_035,,0,5,1,0.5759458241457339
+train_036_attack,train_036,Homophonic Substitution,1,2,1,0.07927180775895842
+train_036_benign,train_036,,0,2,0,-0.34770698397909566
+train_037_attack,train_037,Misspelling Intentionally,1,4,0,-0.13664121140810664
+train_037_benign,train_037,,0,4,0,-0.40640942861995744
+train_038_attack,train_038,Anagramming,1,4,0,-0.16055492826760526
+train_038_benign,train_038,,0,4,0,-0.30619044406023244
+train_039_attack,train_039,Space Removal & Grouping,1,2,1,0.000168961048406302
+train_039_benign,train_039,,0,2,0,-0.19119152840936093
+train_040_attack,train_040,Instruction,1,1,1,0.03041140767953765
+train_040_benign,train_040,,0,1,0,-0.07780840166605518
+train_041_attack,train_041,Social Interaction,1,1,1,0.18332753548070946
+train_041_benign,train_041,,0,1,0,-0.3189188935911832
+train_042_attack,train_042,Persuasion,1,5,1,0.2710644446773442
+train_042_benign,train_042,,0,5,0,-0.009707088920202445
+train_043_attack,train_043,Clickbait,1,3,1,1.1050389806296697
+train_043_benign,train_043,,0,3,1,0.9793972709688015
+train_044_attack,train_044,Malware Distribution,1,3,1,0.0540135370520442
+train_044_benign,train_044,,0,3,0,-0.5792138456051239
+train_045_attack,train_045,Information Retrieval,1,4,0,-0.22412632688920853
+train_045_benign,train_045,,0,4,0,-0.4045453650328562
+train_046_attack,train_046,Content Creation,1,5,0,-0.29554062668473474
+train_046_benign,train_046,,0,5,0,-0.3340648075200409
+train_047_attack,train_047,Learning and Tutoring,1,2,1,0.04918138934548549
+train_047_benign,train_047,,0,2,0,-0.13490763808029377
+train_048_attack,train_048,Language Translation,1,3,0,-0.03923040769419145
+train_048_benign,train_048,,0,3,0,-0.4328827057134385
+train_049_attack,train_049,Programming Help,1,1,1,0.2174594032839353
+train_049_benign,train_049,,0,1,0,-0.31276438242324456
