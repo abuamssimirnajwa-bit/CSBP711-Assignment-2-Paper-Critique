@@ -1,0 +1,10 @@
+{
+  "model_name": "microsoft/deberta-v3-base",
+  "learning_rate": 1e-06,
+  "epochs": 1,
+  "threshold": 0.5712890625,
+  "max_length": 512,
+  "seed": 42,
+  "selection_set": "validation",
+  "final_evaluation_set": "test"
+}

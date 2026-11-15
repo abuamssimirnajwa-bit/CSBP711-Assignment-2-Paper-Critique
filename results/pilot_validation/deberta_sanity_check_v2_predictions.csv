@@ -1,0 +1,9 @@
+sample_id,label,label_name,prediction,prediction_name
+train_000_benign,0,benign,0,benign
+train_001_benign,0,benign,0,benign
+train_002_benign,0,benign,1,attack
+train_005_benign,0,benign,0,benign
+train_000_attack,1,attack,1,attack
+train_001_attack,1,attack,1,attack
+train_002_attack,1,attack,1,attack
+train_005_attack,1,attack,1,attack

@@ -1,0 +1,2 @@
+model,learning_rate,epochs,threshold,training_samples,test_samples,accuracy,macro_f1,benign_f1,attack_f1,attack_precision,attack_recall,false_positive_rate,true_negatives,false_positives,false_negatives,true_positives
+DeBERTa-v3-base,1e-06,1,0.5712890625,100,74,0.5,0.3333333333333333,0.6666666666666666,0.0,0.0,0.0,0.0,37,0,37,0
